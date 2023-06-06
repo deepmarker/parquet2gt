@@ -1,5 +1,5 @@
 all:
-	go build -o bin/kafka2gt .
+	go build -o bin/parquet2gt .
 
 clean:
 	rm -rf bin/*
